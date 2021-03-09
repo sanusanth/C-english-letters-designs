@@ -19,4 +19,5 @@ public class Edureka
         int n = 5; 
         rightTriangle(n); 
     } 
+    // Creater By Sanusanth
 }
