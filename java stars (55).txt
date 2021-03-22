@@ -20,6 +20,7 @@ public class Edureka
             {
                 System.out.print(" ");
             }
+            // Creater By Sanusanth
             for(int k=1; k<i ;k++) 
             {
                 System.out.print("*");
