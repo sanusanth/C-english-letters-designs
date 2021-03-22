@@ -8,6 +8,7 @@ public class Edureka
                 for (j = 1; j< i + 1; j++) {
                     System.out.print(k++ + " ");
                 }
+                // Creater By Sanusanth
        
                 System.out.println();
             }
