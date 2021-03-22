@@ -36,6 +36,8 @@ public class Edureka
                     num = (num == 0)? 1 : 0;
                 }
             }
+           
+           // Creater By Sanusanth
               
             System.out.println();
         }
