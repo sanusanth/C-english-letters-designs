@@ -17,6 +17,7 @@ public class Edureka
     {
     System.out.print("*");
     }
+    // Creater By Sanusanth
     System.out.println("");
     }
     sc.close();
